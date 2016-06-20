@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    background-image:    url(MQT.JPG);
+    background-size:     cover;                     
+    background-repeat:   no-repeat;
+    background-position: center center;             }
+
+ul { list-style-position: inside; line-height: 130%; font-weight: 900; color:white}
+ol {font-style:oblique}     
+
+h2 {color:white;}  
+       
+td {font-style:italic; font-style:oblique; font-weight:900; font-size:15px;}  
+      
+a:link { color: blue; }
+
+a:visited { color: blue; }
+
+a:hover{background-color: yellow;}
+
+.img-circle { border-radius: 50%;}
+        p {color:white; text-indent: 25px; margin:100px; font-size: 120%;}
+        h1 {color:black; text-align: center; font-size:70px;}
+
+.redbold{ color:red; font-weight: bold;}
+
+#wholepage { border-width: 83px; border-spacing: 0px; align-content:center }
+
+.zebra1{background-color: beige}
+.zebra2{background-color: bisque}
